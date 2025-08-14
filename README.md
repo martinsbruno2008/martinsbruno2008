@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou Bruno Martins 👋
 
-<!--
-**martinsbruno2008/martinsbruno2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsbruno2409&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsbruno2409&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+## 📌 Sobre mim
+- 📚 Estudando **Técnico em Informática**
+- 🚀 Sempre buscando evoluir como dev
+- 📍 Joinville - SC, Brasil
+- 📫 Contato: [martinsbru08@gmail.com](mailto:martinsbru08@gmail.com)
 
-- 🔭 I’m currently working on tecnico em informatica para internet 
-- 🌱 I’m currently learning no IFC
-- 👯 I’m looking to collaborate on josiane giovana jeana juliana e jeovana
-- 🤔 I’m looking for help with tudo
-- 💬 Ask me about de qualquer coisa desde que seja de informatica
-- 📫 How to reach me: martinsbru08@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: sou o cara que gosta de tecnologia
--->
+## 🧰 Tecnologias & Ferramentas
+![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+## 🌐 Redes sociais & Contato
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:martinsbru08@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/martinsbru08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-martins-088522230/)
+
+![Bruno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=martinsbruno2409&theme=react-dark)
+
