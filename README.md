@@ -25,5 +25,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/martinsbru08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-martins-088522230/)
 
-![Bruno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=martinsbruno2008&theme=react-dark)
+## 🐍 Bruno's Snake Game Contribution Graph
+
+![snake gif](https://raw.githubusercontent.com/martinsbruno2008/martinsbruno2008/output/github-contribution-grid-snake-dark.svg)
+
 
