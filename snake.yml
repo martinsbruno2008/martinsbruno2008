@@ -1,0 +1,30 @@
+name: Generate Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 13 * * *" # roda todo dia às 13h UTC (10h BRT)
+
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: martinsbruno2008
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg
+
+      - name: Commit SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Bruno Martins
+          author_email: martinsbruno08@gmail.com
+          message: "Generate snake SVG"
+          add: "output/*.svg"
