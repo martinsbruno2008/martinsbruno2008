@@ -1,14 +1,28 @@
-## Olá! Eu sou Bruno Martins 👋
+<h1 align="center">Olá 👋, eu sou Bruno Martins</h1>
+
+<p align="center">
+  <em>Desenvolvedor apaixonado por tecnologia 💻</em>
+</p>
+
+---
 
 ## 📊 GitHub Stats
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsbruno2008&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsbruno2008&layout=compact&theme=radical)
 
-## 📌 Sobre mim
-- 📚 Estudando **Técnico em Informática**
-- 🚀 Sempre buscando evoluir como dev
-- 📍 Joinville - SC, Brasil
-- 📫 Contato: [martinsbru08@gmail.com](mailto:martinsbru08@gmail.com)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[martinsbruno2008]&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[martinsbruno2008]&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📌 Sobre mim  
+
+- 🎓 Estudante de Informatica para internet
+- 🚀 Sempre buscando evoluir como dev  
+- 🌎 Localização: Joinville em SC no Brasil
+- ✉️ Contato: [martinsbru08@gmail.com](mailto:martinsbru08@gmail.com)
+
+---
 
 ## 🧰 Tecnologias & Ferramentas  
 
@@ -19,16 +33,23 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+---
 
 ## 🌐 Redes sociais & Contato  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/martinsbru08)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://twitch.tv/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:martinsbru08@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@BrunoMartins-i4i)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/martinsbru08/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](Nao tenho Twitch)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](Não tenho Discord)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-martins-088522230/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:martinsbru08@gmail.com)
 
-## 🐍 Bruno's Snake Game Contribution Graph  
+---
 
-![Bruno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=martinsbruno2008&theme=react-dark)
+## 🐍 Minhas Contribuições  
+
+![Snake animation](https://github.com/[SEU_USERNAME]/[SEU_USERNAME]/blob/output/github-contribution-grid-snake.svg)
+
